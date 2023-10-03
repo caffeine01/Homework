@@ -53,9 +53,8 @@ $1kW = 1000\,J/s$    1 hour = $3600s$
 **Random Errors** affect *precision*, meaning they cause differences in measurements which causes a spread about the mean. You **cannot** get rid of all random errors. An example of a random error is *electronic noise* in the circuit of an electrical instrument.
 To reduce random errors:
 - Take **at least 3 repeats** and calculate a **mean**, this method also allows *anomalies* to be identified.
-- Use **computers/data loggers/cameras** to reduce human error and enable smaller *intervals*
-- Use **appropriate equipment**, e.g a micrometer has a higher resolution 
-  ($0.1\,mm$) than a ruler ($1\,mm$)
+- Use **computers/data loggers/cameras** to reduce human error and enable smaller *intervals*.
+- Use **appropriate equipment**, e.g a micrometer has a higher resolution ($0.1\,mm$) than a ruler ($1\,mm$).
   
 **Systematic errors** affect *accuracy* and occur due to the apparatus or faults in the experimental method. Systematic errors cause all results to be *too high* or *too low* by the *same amount* each time.
 An example is a balance that isn't zeroed correctly (zero error) or reading a scale at a different angle (parallax error).
