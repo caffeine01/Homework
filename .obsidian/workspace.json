@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
+                "file": "Maths/Year 1/Pure/Proof.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "45ce3cb5935bf987",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
+                "file": "Maths/Year 1/Pure/Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
+                "file": "Maths/Year 1/Pure/Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md"
+                "file": "Maths/Year 1/Pure/Proof.md"
               }
             }
           },
@@ -171,14 +170,15 @@
   },
   "active": "a44dfcc81e3eda36",
   "lastOpenFiles": [
+    "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
+    "Physics/Class Notes/Pair Production.md",
+    "Physics/Measurements and their Errors.md",
+    "Physics/Particles and Radiation.md",
+    "Maths/Year 1/Pure/Proof.md",
     "Maths/Year 1",
     "Maths/Pure/Untitled",
     "Maths/Year 1/Pure",
-    "Physics/Particles and Radiation.md",
-    "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
     "Maths",
-    "Physics/Measurements and their Errors.md",
-    "Physics/Class Notes/Pair Production.md",
     "Physics/Class Notes",
     "TODO.md",
     "2023-10-03.md",
@@ -189,7 +189,6 @@
     "Maths/Pure/Algebra and Fucntions/Year 1",
     "Maths/Pure/Algebra and Fucntions",
     "Maths/Pure/Proof/Year 1",
-    "Maths/Pure/Proof",
-    "Maths/Mechanics"
+    "Maths/Pure/Proof"
   ]
 }
