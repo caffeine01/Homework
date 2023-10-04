@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df16c3e207a1a4e6",
+        "id": "21fc133cfba920ab",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e01ecbb1849dd3",
+            "id": "093f0e1a52336334",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "420ffbc090ce7f13",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "92420ebb920603e9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Physics/Measurements and their Errors.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Measurements and their Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/Measurements and their Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/Measurements and their Errors.md"
+              }
             }
           },
           {
@@ -172,21 +155,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1e01ecbb1849dd3",
+  "active": "093f0e1a52336334",
   "lastOpenFiles": [
-    "Physics/Measurements and their Errors.md",
+    "TODO.md",
     "Physics/Particles and Radiation.md",
-    "conflict-files-obsidian-git.md",
+    "Physics/Measurements and their Errors.md",
     "Physics/Class Notes/Pair Production.md",
-    "Physics/Class Notes",
+    "Maths/Year 1/Pure/Untitled.md",
     "Maths/Year 1/Pure/Proof.md",
     "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
+    "conflict-files-obsidian-git.md",
+    "Physics/Class Notes",
     "Maths/Year 1/Pure",
     "Maths/Year 1",
     "Maths",
     "Untitled Document",
     "Untitled Folder",
-    "TODO.md",
     "2023-10-03.md",
     "Untitled.canvas",
     "2023-10-02.md",
