@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/Pair Production.md",
+                "file": "Physics/Particles and Radiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a44dfcc81e3eda36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "45ce3cb5935bf987",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/Pair Production.md",
+                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/Pair Production.md",
+                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/Pair Production.md"
+                "file": "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md"
               }
             }
           },
@@ -155,13 +169,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1e01ecbb1849dd3",
+  "active": "a44dfcc81e3eda36",
   "lastOpenFiles": [
+    "Maths/Year 1",
+    "Maths/Pure/Untitled",
+    "Maths/Year 1/Pure",
+    "Physics/Particles and Radiation.md",
+    "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
+    "Maths",
     "Physics/Measurements and their Errors.md",
     "Physics/Class Notes/Pair Production.md",
     "Physics/Class Notes",
     "TODO.md",
-    "Physics/Particles and Radiation.md",
     "2023-10-03.md",
     "Untitled.canvas",
     "2023-10-02.md",
@@ -171,9 +190,6 @@
     "Maths/Pure/Algebra and Fucntions",
     "Maths/Pure/Proof/Year 1",
     "Maths/Pure/Proof",
-    "Maths/Mechanics",
-    "Maths/Statistics",
-    "Maths/Pure",
-    "Maths/Year 12"
+    "Maths/Mechanics"
   ]
 }
