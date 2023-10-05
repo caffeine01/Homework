@@ -73,4 +73,13 @@ The smallest change in the quantity being measured that gives a recognisable cha
 ### Accuracy
 A measurement close to the true value is accurate
 
+The **uncertainty** of a measurement is the bounds in which the accurate value can be expected to lie, e.g. $20^{\circ}C\, \pm \, 2^{\circ}C$, the true value could be within $18-22^{\circ}C$ 
 
+**Absolute uncertainty**: Uncertainty given as a fixed quantity e.g. $7\,\pm\,0.6V$
+**Fractional uncertainty**: Uncertainty given as a fraction of the measurement e.g. $7\pm\frac{3}{35}V$
+**Percentage uncertainty**: Uncertainty given as a percentage of the measurement e.g. $7\pm8.6\%V$
+
+To reduce percentage and fractional uncertainty, you can measure larger quantities.
+
+### Resolution and Uncertainty
+Readings are when one value is found e.g. reading a thermometer, measurements are when the difference between 2 readings is found, e.g. a ruler (as both the starting point and end point are judged)
