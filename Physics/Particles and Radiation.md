@@ -49,7 +49,5 @@ To calculate it you just divide the charge by the mass.
 Isotopes are atoms with the same number of protons but a different number of neutrons. Changing the amount of neutrons doesn't change the atoms chemical properties.
 There are many different isotopes that have important uses, the relative amounts of the different isotopes of an element present in a substance is knows as isotopic data.
 
-
-
 # Stable and Unstable Nuclei
 Nuclei 
