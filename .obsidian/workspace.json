@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f26e0ff3abbaf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Measurements and their Errors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Measurements and their Errors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Measurements and their Errors.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,16 +168,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "093f0e1a52336334",
+  "active": "4f26e0ff3abbaf22",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation.md",
-    "Physics/Measurements and their Errors.md",
     "TODO.md",
+    "conflict-files-obsidian-git.md",
+    "Physics/Measurements and their Errors.md",
+    "Physics/Particles and Radiation.md",
     "Physics/Class Notes/Pair Production.md",
     "Maths/Year 1/Pure/Untitled.md",
     "Maths/Year 1/Pure/Proof.md",
     "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
-    "conflict-files-obsidian-git.md",
     "Physics/Class Notes",
     "Maths/Year 1/Pure",
     "Maths/Year 1",
