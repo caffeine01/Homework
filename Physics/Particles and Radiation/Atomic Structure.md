@@ -1,11 +1,9 @@
-# Atomic Structure
-
 ### Inside the atom
 - An atom is made up of particles. Namely protons, neutrons and electrons.
 - At the centre of every atom there is a nucleus composed of protons and neutrons (protons and neutrons are known as nucleons)
 - Electrons orbit the nucleus
 
-The the particles that make up an atom have different charges and masses (C being colulombs):
+The the particles that make up an atom have different charges and masses (C being coulombs):
 
 | Particle | Charge (C)           | Mass (kg)            |
 | -------- | -------------------- | -------------------- |
@@ -48,6 +46,3 @@ To calculate it you just divide the charge by the mass.
 ### Isotopes
 Isotopes are atoms with the same number of protons but a different number of neutrons. Changing the amount of neutrons doesn't change the atoms chemical properties.
 There are many different isotopes that have important uses, the relative amounts of the different isotopes of an element present in a substance is knows as isotopic data.
-
-# Stable and Unstable Nuclei
-Nuclei 
