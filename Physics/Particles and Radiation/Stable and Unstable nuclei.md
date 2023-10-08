@@ -18,12 +18,14 @@ Unstable nuclei will emit particles to become more stable, this is known as **nu
 
 ### Alpha decay
 Alpha ($\alpha$) decay only happens in very large atoms (atoms with more than 82 protons), like uranium and radium. The nuclei of these atoms are too big for the strong nuclear force to keep them stable. In order to stabilise themselves, they emit alpha particles from their nucleus. When an alpha particle is emitted, the proton number decreases by two and the nucleon number decreases by four.
-${^A_ZX} \rightarrow {^{A-4}_{Z-2}Y} + {^4_2\alpha}$
+$${^A_ZX} \rightarrow {^{A-4}_{Z-2}Y} + {^4_2\alpha}$$
 
 e.g. Uranium decays to thorium by emission of an alpha particle.
-${^{238}_{92}U} \rightarrow {^{234}_{90}Y} + {^4_2\alpha}$
+$${^{238}_{92}U} \rightarrow {^{234}_{90}Y} + {^4_2\alpha}$$
 
 Alpha particles are ionising but only have a very short range, if you bring a Geiger counter close to an alpha source and then move it away, you will see the count rate drop within a few centimetres.
 
 ### Beta-minus decay
-Beta-minus ($\beta^-$) decay (usually referred to as just beta decay) is the emission of an electron from the nucleus along with an **antineutrino** particle. Beta decay 
+Beta-minus ($\beta^-$) decay (usually referred to as just beta decay) is the emission of an electron from the nucleus along with an **antineutrino** particle. Beta decay happens in isotopes that are "neutron rich" (i.e. have too many neutrons compared to protons in their nucleus). When a nucleus ejects a beta particle, one of the neutrons in the nucleus changes into a proton.
+In beta decay, the proton number increases by one and the nucleon number stays the same, and the antineutrino particle that's released carries away some energy and momentum.
+$${^A_ZX} \rightarrow {^{A}_{Z+1}Y} + {^0_{-1}\beta} + v ̅ _e$$
