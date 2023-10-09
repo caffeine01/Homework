@@ -29,3 +29,10 @@ Alpha particles are ionising but only have a very short range, if you bring a Ge
 Beta-minus ($\beta^-$) decay (usually referred to as just beta decay) is the emission of an electron from the nucleus along with an **antineutrino** particle. Beta decay happens in isotopes that are "neutron rich" (i.e. have too many neutrons compared to protons in their nucleus). When a nucleus ejects a beta particle, one of the neutrons in the nucleus changes into a proton.
 In beta decay, the proton number increases by one and the nucleon number stays the same, and the antineutrino particle that's released carries away some energy and momentum.
 $${^A_ZX} \rightarrow {^{A}_{Z+1}Y} + {^0_{-1}\beta} + v ̅ _e$$
+e.g. Rhenium decays to osmium by beta emission
+$${^{187}_{75}Re} \rightarrow {^{187}_{76}Os} + {^0_{-1}\beta} + v ̅ _e$$
+
+### Beta decay and the hypothesis of neutrinos
+Scientists thought that only an electron was emitted during beta decay, however they observed that the energy of the particles after the decay was less than before, which didn't fit with the principle of conservation of energy.
+In 1930, Wolfgang Pauli suggested that another particle must also be being emitted and carrying away the missing energy. This particle had to be neutral otherwise the charge wouldn't be conserved in beta decay, and also has to have little to no mass as it had never been detected.
+Other discoveries led to Pauli's hypothesis becoming accepted and the particle was named the neutrino. 25 years later the neutrino was observed, solidifying the hypothesis.
