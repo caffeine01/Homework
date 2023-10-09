@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df16c3e207a1a4e6",
+        "id": "21fc133cfba920ab",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e01ecbb1849dd3",
+            "id": "093f0e1a52336334",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,32 +155,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1e01ecbb1849dd3",
+  "active": "093f0e1a52336334",
   "lastOpenFiles": [
+    "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "TODO.md",
+    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
+    "Physics/Class Notes/Pair Production.md",
+    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
+    "Physics/Particles and Radiation",
+    "Physics/Measurements and their Errors",
     "Physics/Particles and Radiation.md",
     "Physics/Measurements and their Errors.md",
-    "Physics/Measurements and their Errors",
-    "Physics/Particles and Radiation",
-    "Physics/Class Notes/Pair Production.md",
+    "conflict-files-obsidian-git.md",
+    "Maths/Year 1/Pure/Untitled.md",
     "Maths/Year 1/Pure/Proof.md",
     "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
-    "Maths/Year 1",
-    "Maths/Pure/Untitled",
-    "Maths/Year 1/Pure",
-    "Maths",
     "Physics/Class Notes",
+    "Maths/Year 1/Pure",
+    "Maths/Year 1",
+    "Maths",
+    "Untitled Document",
+    "Untitled Folder",
     "2023-10-03.md",
     "Untitled.canvas",
     "2023-10-02.md",
+    "Physics/Untitled",
     "Maths/Pure/Proof/1a. Proof.md",
-    "Maths/Pure/Algebra and Fucntions/Year 2",
-    "Maths/Pure/Algebra and Fucntions/Year 1",
-    "Maths/Pure/Algebra and Fucntions"
+    "Maths/Pure/Algebra and Fucntions/Year 2"
   ]
 }
