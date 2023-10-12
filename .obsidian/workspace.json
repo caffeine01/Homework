@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+                "file": "Physics/Particles and Radiation/Quarks and Antiquarks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+                "file": "Physics/Particles and Radiation/Quarks and Antiquarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+                "file": "Physics/Particles and Radiation/Quarks and Antiquarks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md"
+                "file": "Physics/Particles and Radiation/Quarks and Antiquarks.md"
               }
             }
           },
@@ -157,14 +157,15 @@
   },
   "active": "d1e01ecbb1849dd3",
   "lastOpenFiles": [
+    "Physics/Particles and Radiation/Hadrons and Leptons.md",
+    "Physics/Particles and Radiation/Antiparticles and Photons.md",
+    "Physics/Particles and Radiation/Atomic Structure.md",
+    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
+    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+    "Computer Science/SLR 2/1. CISC vs RISC.md",
     "Computer Science/SLR 2/2. GPUs and their uses.md",
     "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
-    "Computer Science/SLR 2/1. CISC vs RISC.md",
     "Physics/Class Notes/Pair Production.md",
-    "Physics/Particles and Radiation/Hadrons and Leptons.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Computer Science/SLR 2",
