@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 2/2. GPUs and their uses.md",
+                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 2/2. GPUs and their uses.md",
+                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 2/2. GPUs and their uses.md",
+                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 2/2. GPUs and their uses.md"
+                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,16 +155,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1e01ecbb1849dd3",
+  "active": "54815f337ff644b8",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
-    "Computer Science/SLR 2/2. GPUs and their uses.md",
-    "Computer Science/SLR 2/1. CISC vs RISC.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
+    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
+    "Physics/Particles and Radiation/Antiparticles and Photons.md",
+    "Computer Science/SLR 2/1. CISC vs RISC.md",
+    "Computer Science/SLR 2/2. GPUs and their uses.md",
+    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Computer Science/SLR 2",
     "Computer Science",
     "TODO.md",
