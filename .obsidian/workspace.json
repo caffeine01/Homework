@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
+                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
+                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
+                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md"
+                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md"
               }
             }
           },
@@ -155,15 +155,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54815f337ff644b8",
+  "active": "d1e01ecbb1849dd3",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation/Atomic Structure.md",
+    "Computer Science/SLR 2/2. GPUs and their uses.md",
+    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+    "Computer Science/SLR 2/1. CISC vs RISC.md",
+    "Physics/Class Notes/Pair Production.md",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
     "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
+    "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
-    "Computer Science/SLR 2/1. CISC vs RISC.md",
-    "Computer Science/SLR 2/2. GPUs and their uses.md",
+    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Computer Science/SLR 2",
     "Computer Science",
@@ -172,7 +174,6 @@
     "Physics/Measurements and their Errors.md",
     "Physics/Measurements and their Errors",
     "Physics/Particles and Radiation",
-    "Physics/Class Notes/Pair Production.md",
     "Maths/Year 1/Pure/Proof.md",
     "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
     "Maths/Year 1",
