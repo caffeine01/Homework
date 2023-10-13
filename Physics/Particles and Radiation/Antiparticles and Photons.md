@@ -33,13 +33,13 @@ All particles are known as matter, so antiparticles are known as antimatter.
 | Particle/Antiparticle | Symbol  | Relative Charge | Mass (kg)               | Rest Energy (MeV) |
 | --------------------- | ------- | --------------- | ----------------------- | ----------------- |
 | proton                | $p$     | $+1$            | $1.67(3)\times10^{-27}$ | $938(.3)$         |
-| antiproton            | $p ̅$   | $-1$            | $1.67(3)\times10^{-27}$ | $938(.3)$         |
+| antiproton            | $p̅$   | $-1$            | $1.67(3)\times10^{-27}$ | $938(.3)$         |
 | neutron               | $n$     | $0$             | $1.67(5)\times10^{-27}$ | $939(.6)$         |
-| antineutron           | $n ̅$   | $0$             | $1.67(5)\times10^{-27}$ | $939(.6)$         |
+| antineutron           | $n̅$   | $0$             | $1.67(5)\times10^{-27}$ | $939(.6)$         |
 | electron              | $e^-$   | $-1$            | $9.11\times10^{-31}$    | $0.51(1)$         |
 | positron              | $e^+$   | $+1$            | $9.11\times10^{-31}$    | $0.51(1)$         |
 | neutrino              | $v_e$   | 0               | 0                       | 0                 |
-| antineutrino          | $v ̅_e$ | 0               | 0                       | 0                  |
+| antineutrino          | $v̅_e$ | 0               | 0                       | 0                  |
 
 
 ### Pair production
