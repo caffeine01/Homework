@@ -17,4 +17,20 @@ The baryon number is a quantum number that must be conserved. It is just the num
 - Other particles (not baryons) have the baryon number $B=0$
 When particles interact and produce or emit new particles (for example, alpha decay), the total baryon number before and after is the same. You can use this information to predict whether a particle interaction can happen - the total baryon number in any particle interaction never changes. 
 ### Neutron decay
-Beta minus decay involves a neutron changing into a proton, this can happen when there are many more neutrons than protons in a nucleus. 
+Beta minus decay involves a neutron changing into a proton, this can happen when there are many more neutrons than protons in a nucleus.
+Beta decay is caused by the weak interaction.
+When a neutron decays it forms a proton, electron and an antineutrino:
+$$n\rightarrow p+e^-+v̅_e$$
+Electrons and antineutrinos aren't baryons, they're leptons, and so have a baryon number $B=0$. Neutrons and protons are baryons and so have a baryon number $B=+1$. This means that the total baryon number before and after are unchanged (equal to +1), allowing the interaction to happen.
+
+## Mesons
+Mesons interact with baryons via the strong force.  All mesons are unstable and have a baryon number $B=0$ because they are not baryons.
+You can find mesons in high-energy particle collisions, for example at the CERN particle accelerator. Computer simulations are also used to predict what will happen in such collisions, including the particles produced and their predicted paths.
+### Pions
+Pions ($\pi$-mesons) are the lightest mesons. There are three versions, each having a different electric charge ($\pi^+$, $\pi^0$, $\pi^-$). The $\pi^-$ meson is just the antiparticle of the $\pi^+$ meson, and the antiparticle of a $\pi^0$ meson is just itself.
+Pions are the exchange particle of the strong nuclear force.
+
+### Kaons
+Kaons (K-mesons) are heavier and more unstable than pions. There are $K^+$ and $K^0$ kaons.
+Kaons have a very short lifetime and will decay into pions.
+
