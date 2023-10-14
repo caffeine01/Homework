@@ -1,2 +1,0 @@
-- [ ] Complete notes for [Measurements and their Errors](obsidian://open?vault=Obsidian%20Vault&file=Physics%2FMeasurements%20and%20their%20Errors).
-- [ ] Transfer notes from paper to Obsidian for Comp Sci.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
+                "file": "Computer Science/SLR 2/2. GPUs and their uses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
+                "file": "Computer Science/SLR 2/2. GPUs and their uses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md",
+                "file": "Computer Science/SLR 2/2. GPUs and their uses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Particles and Radiation/Hadrons and Leptons.md"
+                "file": "Computer Science/SLR 2/2. GPUs and their uses.md"
               }
             }
           },
@@ -157,18 +157,18 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
+    "TODO.md",
+    "Computer Science/SLR 2/2. GPUs and their uses.md",
+    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+    "Computer Science/SLR 2/1. CISC vs RISC.md",
+    "Physics/Particles and Radiation/Hadrons and Leptons.md",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Particles and Radiation/Hadrons and Leptons.md",
     "Physics/Particles and Radiation/Quarks and Antiquarks.md",
     "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Physics/Class Notes/Pair Production.md",
-    "TODO.md",
-    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
-    "Computer Science/SLR 2/2. GPUs and their uses.md",
-    "Computer Science/SLR 2/1. CISC vs RISC.md",
     "Computer Science/SLR 2",
     "Physics/Particles and Radiation",
     "Physics/Measurements and their Errors",

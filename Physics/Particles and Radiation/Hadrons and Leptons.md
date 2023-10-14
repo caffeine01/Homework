@@ -34,3 +34,9 @@ Pions are the exchange particle of the strong nuclear force.
 Kaons (K-mesons) are heavier and more unstable than pions. There are $K^+$ and $K^0$ kaons.
 Kaons have a very short lifetime and will decay into pions.
 
+### Detection of mesons
+High energy particles from space called cosmic rats are constantly hitting the earth. Cosmic rays often interact with molecules from the atmosphere and produce 'showers' of lots of high-energy particles, including pions and kaons. These are known as cosmic ray showers. You can observe the tracks of these particles with a cloud chamber.
+Cosmic ray showers can be detected using two Geiger counters placed one above the other, separated by lead which absorbs stray radiation. If both counters detect radiation simultaneously, then it is very likely that a particle from a cosmic ray show has been detected (rather than random noise or background radiation).
+
+## Hadron properties summary
+Hadrons are categorised into two separate groups, the baryons and the mesons. The baryons contain the nucleons (proton, neutron) and others. 
