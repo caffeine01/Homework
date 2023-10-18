@@ -22,4 +22,3 @@ All baryons are made up of three quarks. Antibaryons are made up of three antiqu
 
 # Quark composition of mesons
 All mesons are made up of one quark and one antiquark. Pions are just made from up, down, anti-up and anti-down quarks. Kaons have strangeness, so you need to put in s quarks too (the s quark has a strangeness of S=-1). You can work out the quark composition of mesons if you know their properties.
-
