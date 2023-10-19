@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/Forces and Motion GCSE content.md",
+                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/Forces and Motion GCSE content.md",
+                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/Forces and Motion GCSE content.md",
+                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/Forces and Motion GCSE content.md"
+                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,19 +157,26 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
-    "Physics/Class Notes/Forces and Motion GCSE content.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Computer Science/SLR 2/2. GPUs and their uses.md",
-    "TODO.md",
-    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
-    "Computer Science/SLR 2/1. CISC vs RISC.md",
-    "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Physics/Class Notes/Pair Production.md",
+    "Computer Science/SLR 4/Need for operating Systems.md",
+    "Computer Science/SLR 3/1. Input, output and storage devices.md",
+    "Computer Science/SLR 3/2. Magnetic, flash and optical storage.md",
+    "Computer Science/SLR 3/3. RAM 'n' ROM.md",
+    "Computer Science/SLR 3/4. Virtual Storage.md",
+    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+    "Computer Science/SLR 2/2. GPUs and their uses.md",
+    "Computer Science/SLR 2/1. CISC vs RISC.md",
+    "Computer Science/SLR 4",
+    "Computer Science/SLR 3",
+    "Physics/Class Notes/Forces and Motion GCSE content.md",
+    "TODO.md",
+    "Physics/Particles and Radiation/Antiparticles and Photons.md",
+    "Physics/Particles and Radiation/Atomic Structure.md",
+    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
+    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Computer Science/SLR 2",
     "Physics/Particles and Radiation",
     "Physics/Measurements and their Errors",
@@ -184,11 +191,8 @@
     "Maths/Year 1",
     "Maths",
     "Untitled Document",
-    "Untitled Folder",
     "2023-10-03.md",
     "Untitled.canvas",
-    "2023-10-02.md",
-    "Physics/Untitled",
-    "Maths/Pure/Proof/1a. Proof.md"
+    "2023-10-02.md"
   ]
 }
