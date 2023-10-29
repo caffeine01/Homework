@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+                "file": "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+                "file": "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+                "file": "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Particles and Radiation/Stable and Unstable nuclei.md"
+                "file": "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md"
               }
             }
           },
@@ -157,26 +157,31 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation/Hadrons and Leptons.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
+    "Computer Science/SLR 4/1. Need for operating Systems.md",
+    "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md",
+    "Physics/Condensed/Particles and Radiation.md",
     "Physics/Class Notes/Pair Production.md",
-    "Computer Science/SLR 4/Need for operating Systems.md",
-    "Computer Science/SLR 3/1. Input, output and storage devices.md",
-    "Computer Science/SLR 3/2. Magnetic, flash and optical storage.md",
-    "Computer Science/SLR 3/3. RAM 'n' ROM.md",
+    "Physics/Class Notes/Forces and Motion GCSE content.md",
+    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
+    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+    "Physics/Particles and Radiation/Hadrons and Leptons.md",
+    "Physics/Particles and Radiation/Atomic Structure.md",
+    "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Computer Science/SLR 3/4. Virtual Storage.md",
+    "Computer Science/SLR 3/3. RAM 'n' ROM.md",
+    "Computer Science/SLR 3/2. Magnetic, flash and optical storage.md",
     "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
     "Computer Science/SLR 2/2. GPUs and their uses.md",
+    "Computer Science/SLR 3/1. Input, output and storage devices.md",
+    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
+    "Physics/Condensed",
+    "Physics/Untitled.md",
+    "Physics/Particles and Radiation/Untitled.md",
+    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Computer Science/SLR 2/1. CISC vs RISC.md",
     "Computer Science/SLR 4",
     "Computer Science/SLR 3",
-    "Physics/Class Notes/Forces and Motion GCSE content.md",
     "TODO.md",
-    "Physics/Particles and Radiation/Antiparticles and Photons.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Computer Science/SLR 2",
     "Physics/Particles and Radiation",
     "Physics/Measurements and their Errors",
@@ -184,15 +189,10 @@
     "Physics/Measurements and their Errors.md",
     "conflict-files-obsidian-git.md",
     "Maths/Year 1/Pure/Untitled.md",
-    "Maths/Year 1/Pure/Proof.md",
-    "Maths/Year 1/Pure/Ch. 5 Straight line graphs.md",
     "Physics/Class Notes",
     "Maths/Year 1/Pure",
     "Maths/Year 1",
     "Maths",
-    "Untitled Document",
-    "2023-10-03.md",
-    "Untitled.canvas",
-    "2023-10-02.md"
+    "Untitled.canvas"
   ]
 }
