@@ -18,7 +18,19 @@ To calculate it you just divide the charge by the mass.
 Isotopes are atoms with the same number of protons but a different number of neutrons. Changing the amount of neutrons doesn't change the atoms chemical properties.
 
 # Hadrons and Leptons
-
+Hadrons:
+- Affected by strong and weak nuclear force
+- Baryons:
+	- 3 Quarks
+	- Baryon number of 1, Anti Baryons have a number of -1
+- Mesons:
+	- 2 Quarks, always a quark and antiquark
+	- Pions:
+		- Up, down, anti-up, anti-down
+	- Kaons:
+		- Always have a strange (S=-1 or S-=1) quark.
+Leptons:
+- Only affected by weak nuclear force
 
 
 
