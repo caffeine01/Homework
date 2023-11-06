@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+                "file": "Physics/Class Notes/2023/11/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ae88e6f40fbfc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/SLR 4/4. Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
+                "file": "Physics/Class Notes/2023/11/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
+                "file": "Physics/Class Notes/2023/11/6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md"
+                "file": "Physics/Class Notes/2023/11/6.md"
               }
             }
           },
@@ -168,9 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e444632dc0b3ca69",
+  "active": "093f0e1a52336334",
   "lastOpenFiles": [
     "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
+    "Physics/Class Notes/2023/11/6.md",
+    "Physics/Class Notes/2023/10/30.md",
+    "Physics/Class Notes/2023/11",
+    "Physics/Class Notes/Pair Production.md",
+    "Physics/Class Notes/Forces and Motion GCSE content.md",
+    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+    "Computer Science/SLR 4/4. Scheduling.md",
     "Physics/Electromagnetic Radiation and Quantum Phenomena",
     "Computer Science/SLR 2/2. GPUs and their uses.md",
     "Computer Science/SLR 2/1. CISC vs RISC.md",
@@ -181,22 +199,16 @@
     "Computer Science/SLR 4/1. Need for operating Systems.md",
     "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md",
     "Computer Science/SLR 4/3. Interrupts.md",
-    "Computer Science/SLR 4/4. Scheduling.md",
     "Computer Science/SLR 4/5. Types of Operating System.md",
     "Computer Science/SLR 4/6. BIOS.md",
     "Computer Science/SLR 4/7. Device drivers.md",
     "Computer Science/SLR 4/8. Virtual machines.md",
-    "Physics/Class Notes/2023/10/30.md",
-    "Physics/Class Notes/Forces and Motion GCSE content.md",
-    "Physics/Class Notes/Pair Production.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
     "Physics/Particles and Radiation/Quarks and Antiquarks.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
-    "Physics/Condensed/Particles and Radiation.md",
     "Physics/Class Notes/2023/10",
     "Physics/Class Notes/2023",
     "Physics/Condensed",
@@ -205,7 +217,6 @@
     "Computer Science/SLR 2",
     "Physics/Particles and Radiation",
     "Physics/Measurements and their Errors",
-    "Physics/Class Notes",
     "Untitled.canvas"
   ]
 }
