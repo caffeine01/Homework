@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2023/11/6.md",
+                "file": "Physics/Class Notes/2023/11/7.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2023/11/6.md",
+                "file": "Physics/Class Notes/2023/11/7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2023/11/6.md",
+                "file": "Physics/Class Notes/2023/11/7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2023/11/6.md"
+                "file": "Physics/Class Notes/2023/11/7.md"
               }
             }
           },
@@ -181,12 +181,21 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
-    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
     "Physics/Class Notes/2023/11/6.md",
-    "Physics/Class Notes/2023/10/30.md",
-    "Physics/Class Notes/2023/11",
+    "Physics/Class Notes/2023/11/7.md",
+    "Physics/Condensed/Particles and Radiation.md",
+    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
+    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
+    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
+    "Physics/Particles and Radiation/Antiparticles and Photons.md",
+    "Physics/Particles and Radiation/Atomic Structure.md",
+    "Physics/Particles and Radiation/Hadrons and Leptons.md",
+    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
     "Physics/Class Notes/Pair Production.md",
     "Physics/Class Notes/Forces and Motion GCSE content.md",
+    "Physics/Class Notes/2023/10/30.md",
+    "Physics/Class Notes/2023/11",
     "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
     "Computer Science/SLR 4/4. Scheduling.md",
     "Physics/Electromagnetic Radiation and Quantum Phenomena",
@@ -200,15 +209,6 @@
     "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md",
     "Computer Science/SLR 4/3. Interrupts.md",
     "Computer Science/SLR 4/5. Types of Operating System.md",
-    "Computer Science/SLR 4/6. BIOS.md",
-    "Computer Science/SLR 4/7. Device drivers.md",
-    "Computer Science/SLR 4/8. Virtual machines.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Particles and Radiation/Antiparticles and Photons.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Particles and Radiation/Hadrons and Leptons.md",
-    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
     "Physics/Class Notes/2023/10",
     "Physics/Class Notes/2023",
     "Physics/Condensed",
