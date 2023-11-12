@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves/Progressive Waves.md",
+                "file": "Computer Science/SLR 5/3. Open vs Closed source.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e444632dc0b3ca69",
+            "id": "f6650a0ac1d058df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae88e6f40fbfc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/SLR 4/4. Scheduling.md",
+                "file": "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves/Progressive Waves.md",
+                "file": "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves/Progressive Waves.md",
+                "file": "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves/Progressive Waves.md"
+                "file": "Computer Science/SLR 5/6. Linkers, loaders and libraries.md"
               }
             }
           },
@@ -160,71 +149,63 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "0f23d7b1616b7aa1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a08971a4909d56e8",
+  "active": "f6650a0ac1d058df",
   "lastOpenFiles": [
-    "Physics/Class Notes/2023/11/9.md",
-    "Physics/Class Notes/2023/11/6.md",
-    "Physics/Waves/Progressive Waves.md",
-    "Physics/Class Notes/2023/11/Untitled",
-    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
-    "Physics/Waves",
-    "Physics/Condensed/Particles and Radiation.md",
+    "Computer Science/SLR 5/5. Stages of compilation.md",
+    "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
+    "Computer Science/SLR 5/4. Translators.md",
     "Computer Science/SLR 5/2. Utilities.md",
-    "Physics/Particles and Radiation/Hadrons and Leptons.md",
-    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
-    "Computer Science/SLR 5/1. The nature of applications.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Computer Science/SLR 5",
-    "Physics/Class Notes/2023/11/7.md",
-    "Physics/Particles and Radiation/Antiparticles and Photons.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
-    "Physics/Class Notes/Pair Production.md",
-    "Physics/Class Notes/Forces and Motion GCSE content.md",
-    "Physics/Class Notes/2023/10/30.md",
-    "Physics/Class Notes/2023/11",
-    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
-    "Computer Science/SLR 4/4. Scheduling.md",
-    "Physics/Electromagnetic Radiation and Quantum Phenomena",
-    "Computer Science/SLR 2/2. GPUs and their uses.md",
-    "Computer Science/SLR 2/1. CISC vs RISC.md",
+    "Computer Science/SLR 4/8. Virtual machines.md",
+    "Computer Science/SLR 4/7. Device drivers.md",
+    "Computer Science/SLR 4/6. BIOS.md",
+    "Computer Science/SLR 4/5. Types of Operating System.md",
+    "Computer Science/SLR 4/2. Paging, segmentation and virtual memory.md",
     "Computer Science/SLR 3/4. Virtual Storage.md",
     "Computer Science/SLR 3/3. RAM 'n' ROM.md",
     "Computer Science/SLR 3/2. Magnetic, flash and optical storage.md",
-    "Computer Science/SLR 3/1. Input, output and storage devices.md",
+    "Computer Science/SLR 2/2. GPUs and their uses.md",
+    "Computer Science/SLR 2/1. CISC vs RISC.md",
+    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+    "Computer Science/SLR 5/3. Open vs Closed source.md",
+    "Physics/Particles and Radiation/Antiparticles and Photons.md",
+    "Physics/Class Notes/2023/11/9.md",
+    "Physics/Waves/Progressive Waves.md",
+    "TODO.md",
+    "Computer Science/SLR 5/1. The nature of applications.md",
+    "Physics/Condensed/Particles and Radiation.md",
+    "Physics/Waves",
+    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
+    "Physics/Electromagnetic Radiation and Quantum Phenomena",
+    "Physics/Class Notes/2023/11/7.md",
+    "Physics/Class Notes/2023/11/6.md",
+    "Physics/Class Notes/2023/11",
+    "Computer Science/SLR 5",
+    "Computer Science/SLR 4/1. Need for operating Systems.md",
     "Physics/Class Notes/2023/10",
     "Physics/Class Notes/2023",
     "Physics/Condensed",
     "Computer Science/SLR 4",
     "Computer Science/SLR 3",
+    "Computer Science/SLR 2",
     "Untitled.canvas"
   ]
 }
