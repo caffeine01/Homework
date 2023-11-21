@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2023/11/16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e444632dc0b3ca69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae88e6f40fbfc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/SLR 4/4. Scheduling.md",
+                "file": "Physics/Class Notes/2023/11/21.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2023/11/16.md",
+                "file": "Physics/Class Notes/2023/11/21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2023/11/16.md",
+                "file": "Physics/Class Notes/2023/11/21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2023/11/16.md"
+                "file": "Physics/Class Notes/2023/11/21.md"
               }
             }
           },
@@ -189,8 +165,14 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
-    "Physics/Class Notes/2023/11/9.md",
+    "Physics/Class Notes/2023/10/30.md",
+    "Physics/Class Notes/2023/11/21.md",
     "Physics/Class Notes/2023/11/16.md",
+    "Physics/Class Notes/2023/11/9.md",
+    "Physics/Class Notes/2023/11/7.md",
+    "Physics/Class Notes/2023/11/6.md",
+    "Computer Science/SLR 4/4. Scheduling.md",
+    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
     "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
     "Computer Science/SLR 5/2. Utilities.md",
     "TODO.md",
@@ -199,26 +181,20 @@
     "Computer Science/SLR 5/3. Open vs Closed source.md",
     "Computer Science/SLR 5/1. The nature of applications.md",
     "Physics/Waves/Progressive Waves.md",
-    "Physics/Class Notes/2023/11/6.md",
     "Physics/Class Notes/2023/11/Untitled",
-    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
     "Physics/Waves",
     "Physics/Condensed/Particles and Radiation.md",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
     "Physics/Particles and Radiation/Quarks and Antiquarks.md",
     "Physics/Particles and Radiation/Atomic Structure.md",
     "Computer Science/SLR 5",
-    "Physics/Class Notes/2023/11/7.md",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Physics/Class Notes/Pair Production.md",
     "Physics/Class Notes/Forces and Motion GCSE content.md",
-    "Physics/Class Notes/2023/10/30.md",
     "Physics/Class Notes/2023/11",
-    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
-    "Computer Science/SLR 4/4. Scheduling.md",
     "Physics/Electromagnetic Radiation and Quantum Phenomena",
     "Physics/Class Notes/2023/10",
     "Physics/Class Notes/2023",
