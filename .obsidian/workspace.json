@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2023/11/23.md",
+                "file": "Physics/Class Notes/2023/11/27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2023/11/23.md",
+                "file": "Physics/Class Notes/2023/11/27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2023/11/23.md",
+                "file": "Physics/Class Notes/2023/11/27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2023/11/23.md"
+                "file": "Physics/Class Notes/2023/11/27.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
     "Physics/Class Notes/2023/11/22.md",
+    "Physics/Class Notes/2023/11/27.md",
     "Physics/Class Notes/2023/11/23.md",
     "Computer Science/SLR 5/5. Stages of compilation.md",
     "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
@@ -193,7 +194,6 @@
     "Physics/Condensed/Particles and Radiation.md",
     "Computer Science/SLR 5",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Physics/Class Notes/2023/11",
     "Physics/Electromagnetic Radiation and Quantum Phenomena",
     "Physics/Class Notes/2023/10",
