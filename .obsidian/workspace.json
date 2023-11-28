@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves/Two Source Interference.md",
+                "file": "Computer Science/SLR 6/Development methodologies part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves/Two Source Interference.md",
+                "file": "Computer Science/SLR 6/Development methodologies part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves/Two Source Interference.md",
+                "file": "Computer Science/SLR 6/Development methodologies part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves/Two Source Interference.md"
+                "file": "Computer Science/SLR 6/Development methodologies part 1.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
-    "Physics/Class Notes/2023/11/27.md",
     "Physics/Waves/Two Source Interference.md",
+    "Computer Science/SLR 6/Development methodologies part 1.md",
+    "Computer Science/SLR 6",
+    "Physics/Class Notes/2023/11/27.md",
     "Physics/Class Notes/2023/11/22.md",
     "Physics/Class Notes/2023/11/23.md",
     "Computer Science/SLR 5/5. Stages of compilation.md",
@@ -192,7 +194,6 @@
     "Computer Science/SLR 5/1. The nature of applications.md",
     "Physics/Class Notes/2023/11/Untitled",
     "Physics/Waves",
-    "Physics/Condensed/Particles and Radiation.md",
     "Computer Science/SLR 5",
     "Physics/Class Notes/2023/11",
     "Physics/Electromagnetic Radiation and Quantum Phenomena",
@@ -200,7 +201,6 @@
     "Physics/Class Notes/2023",
     "Physics/Condensed",
     "Computer Science/SLR 4",
-    "Computer Science/SLR 3",
     "Untitled.canvas"
   ]
 }
