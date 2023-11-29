@@ -30,3 +30,22 @@ Spiral model:
 - The spiral model is more of a guide for development teams, allowing them to adopt elements of one or more methodologies like waterfall or RAD.
 - It is a common misconception that the spiral model is a fixed process that must be followed in the correct order. In reality is is wholly dependant on the project and its unique risks.
 - This model is better thought of as a process model generator, where decisions on he software development methodology are made based on the risks identified.
+
+Agile methodology:
+- Agile development refers to a group of methodologies (not a single one) that came about in the early 2000s
+- These methodologies focus on the idea that requirements will shift and change during development - this can only be dealt with by producing software in an iterative way.
+- They are a more refined form of the older concepts behind rapid application development (RAD).
+- The product is built in a series of iterations known as sprints.
+- These are short, time-boxed periods when a team has focused goals to complete a set amount of work.
+- Each sprint should ideally be a bite-sized piece of focused work, taking no longer than one to four weeks.
+
+Extreme programming:
+- Extreme programming is not so much a software methodology as it is a framework
+- It aims to produce very high-quality code and promote developers' quality of life by encouraging them to adopt a set of common practises that focus on the values of:
+	- Simplicity
+	- Communication
+	- Feedback
+	- Courage
+	- Respect
+- It is considered an agile framework in that it encourages regular, small, iterative software releases.
+- At its core are the concepts of collective ownership and every team member being of equal value.
