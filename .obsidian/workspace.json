@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 6/4. Test strategies.md",
+                "file": "Computer Science/SLR 6/Test data & user feedback.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 6/4. Test strategies.md",
+                "file": "Computer Science/SLR 6/Test data & user feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 6/4. Test strategies.md",
+                "file": "Computer Science/SLR 6/Test data & user feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 6/4. Test strategies.md"
+                "file": "Computer Science/SLR 6/Test data & user feedback.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
-    "Computer Science/SLR 6/3. Writing & following algorithms.md",
     "Computer Science/SLR 6/4. Test strategies.md",
+    "Computer Science/SLR 6/Test data & user feedback.md",
+    "Computer Science/SLR 6/3. Writing & following algorithms.md",
     "Computer Science/SLR 6/2. Development methodologies part 2.md",
     "Computer Science/SLR 6/1. Development methodologies part 1.md",
     "Physics/Class Notes/2023/12/6.md",
@@ -205,7 +206,6 @@
     "Physics/Class Notes/2023/11/21.md",
     "Physics/Class Notes/2023/10/30.md",
     "Physics/Class Notes/2023/11/16.md",
-    "Physics/Class Notes/2023/11/9.md",
     "Physics/Class Notes/2023/11/Untitled",
     "Physics/Waves",
     "Computer Science/SLR 5",
