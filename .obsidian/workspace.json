@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 5/5. Stages of compilation.md",
+                "file": "Physics/Class Notes/2023/12/13.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 5/5. Stages of compilation.md",
+                "file": "Physics/Class Notes/2023/12/13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 5/5. Stages of compilation.md",
+                "file": "Physics/Class Notes/2023/12/13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 5/5. Stages of compilation.md"
+                "file": "Physics/Class Notes/2023/12/13.md"
               }
             }
           },
@@ -177,7 +177,15 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
+    "Physics/Class Notes/2023/12/11 Particles.md",
+    "Physics/Class Notes/2023/12/11 Mechanics.md",
+    "Physics/Class Notes/2023/12/13.md",
+    "Computer Science/SLR 5/5. Stages of compilation.md",
+    "Computer Science/SLR 5/2. Utilities.md",
+    "Computer Science/SLR 5/3. Open vs Closed source.md",
+    "Computer Science/SLR 5/4. Translators.md",
     "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
+    "Computer Science/SLR 5/1. The nature of applications.md",
     "Computer Science/SLR 6/Test data & user feedback.md",
     "Computer Science/SLR 6/4. Test strategies.md",
     "Computer Science/SLR 6/3. Writing & following algorithms.md",
@@ -197,15 +205,7 @@
     "Computer Science/SLR 6",
     "Physics/Class Notes/2023/11/22.md",
     "Physics/Class Notes/2023/11/23.md",
-    "Computer Science/SLR 5/5. Stages of compilation.md",
     "Physics/Particles and Radiation/Quarks and Antiquarks.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
-    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
-    "Physics/Waves/Progressive Waves.md",
-    "Physics/Class Notes/2023/11/21.md",
-    "Physics/Class Notes/2023/10/30.md",
-    "Physics/Class Notes/2023/11/16.md",
     "Physics/Class Notes/2023/11/Untitled",
     "Physics/Waves",
     "Computer Science/SLR 5",
