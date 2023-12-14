@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2023/12/13.md",
+                "file": "Physics/Class Notes/2023/12/14.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2023/12/13.md",
+                "file": "Physics/Class Notes/2023/12/14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2023/12/13.md",
+                "file": "Physics/Class Notes/2023/12/14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2023/12/13.md"
+                "file": "Physics/Class Notes/2023/12/14.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,9 +177,11 @@
   },
   "active": "093f0e1a52336334",
   "lastOpenFiles": [
+    "Physics/Class Notes/2023/Pasted image 20231214142940.png",
+    "Physics/Class Notes/2023/12/13.md",
+    "Physics/Class Notes/2023/12/14.md",
     "Physics/Class Notes/2023/12/11 Particles.md",
     "Physics/Class Notes/2023/12/11 Mechanics.md",
-    "Physics/Class Notes/2023/12/13.md",
     "Computer Science/SLR 5/5. Stages of compilation.md",
     "Computer Science/SLR 5/2. Utilities.md",
     "Computer Science/SLR 5/3. Open vs Closed source.md",
@@ -204,8 +206,6 @@
     "Physics/Waves/Two Source Interference.md",
     "Computer Science/SLR 6",
     "Physics/Class Notes/2023/11/22.md",
-    "Physics/Class Notes/2023/11/23.md",
-    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
     "Physics/Class Notes/2023/11/Untitled",
     "Physics/Waves",
     "Computer Science/SLR 5",
