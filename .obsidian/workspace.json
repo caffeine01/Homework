@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/8.md",
+                "file": "Physics/Class Notes/2024/9.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2024/8.md",
+                "file": "Physics/Class Notes/2024/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2024/8.md",
+                "file": "Physics/Class Notes/2024/9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2024/8.md"
+                "file": "Physics/Class Notes/2024/9.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "5a427ca5092969ac",
   "lastOpenFiles": [
-    "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Class Notes/2024/8.md",
+    "Physics/Class Notes/2024/9.md",
+    "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Class Notes/2023/12/14.md",
     "Physics/Class Notes/2024",
     "Physics/Class Notes/2023/Pasted image 20231214142940.png",
@@ -232,7 +233,6 @@
     "Physics/Class Notes/2023/12",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Class Notes/2023/11/29.md",
     "Computer Science/SLR 6",
     "Physics/Class Notes/2023/11/Untitled",
     "Physics/Waves",
