@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/8.md",
+                "file": "Physics/Class Notes/2024/2/20.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/8.md",
+                "file": "Physics/Class Notes/2024/1/8.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/29.md",
+                "file": "Physics/Class Notes/2024/1/29.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bdc75e036f1d896",
+            "id": "5e3a1a1150d6d764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Physics/Class Notes/2023/12/6.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/SLR 7/4. Addressing memory.md",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2023/12/6.md",
+                "file": "Physics/Class Notes/2024/2/20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2023/12/6.md",
+                "file": "Physics/Class Notes/2024/2/20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2023/12/6.md"
+                "file": "Physics/Class Notes/2024/2/20.md"
               }
             }
           },
@@ -200,17 +198,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bdc75e036f1d896",
+  "active": "54815f337ff644b8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Physics/Class Notes/2024/29.md",
+    "Physics/Class Notes/2024/1/8.md",
+    "Physics/Class Notes/2024/1/29.md",
+    "Physics/Class Notes/2024/2/20.md",
+    "Physics/Class Notes/2024/1/25.md",
+    "Physics/Class Notes/2024/2",
+    "Physics/Class Notes/2024/Untitled 1.md",
+    "Physics/Class Notes/2024/Untitled.md",
+    "Physics/Class Notes/2024/1",
+    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
+    "Computer Science/SLR 2/1. CISC vs RISC.md",
+    "Computer Science/SLR 2/2. GPUs and their uses.md",
     "Computer Science/SLR 7/1. Programming Paradigms.md",
+    "Computer Science/SLR 7/2. Procedural languages.md",
+    "Computer Science/SLR 7/3. Assembly language and LMC language.md",
+    "Computer Science/SLR 7/4. Addressing memory.md",
+    "Physics/Particles and Radiation/Antiparticles and Photons.md",
+    "Physics/Waves/Two Source Interference.md",
+    "Physics/Class Notes/2023/12/6.md",
+    "conflict-files-obsidian-git.md",
     "Computer Science/SLR 7",
     "Computer Science/SLR 6/5. Test data & user feedback.md",
-    "Physics/Class Notes/2024/25.md",
-    "Physics/Class Notes/2024/24.md",
-    "Physics/Class Notes/2024/9.md",
-    "Physics/Class Notes/2024/8.md",
+    "Physics/Class Notes/2024/1/24.md",
+    "Physics/Class Notes/2024/1/9.md",
     "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Class Notes/2023/12/14.md",
     "Physics/Class Notes/2024",
@@ -220,25 +232,11 @@
     "Computer Science/Untitled.md",
     "Physics/Class Notes/2023/12/13.md",
     "Physics/Class Notes/2023/12/11 Particles.md",
-    "Physics/Class Notes/2023/12/11 Mechanics.md",
-    "Computer Science/SLR 5/5. Stages of compilation.md",
-    "Computer Science/SLR 5/2. Utilities.md",
-    "Computer Science/SLR 5/3. Open vs Closed source.md",
-    "Computer Science/SLR 5/4. Translators.md",
-    "Computer Science/SLR 5/6. Linkers, loaders and libraries.md",
-    "Computer Science/SLR 5/1. The nature of applications.md",
-    "Computer Science/SLR 6/Test data & user feedback.md",
-    "Computer Science/SLR 6/4. Test strategies.md",
-    "Computer Science/SLR 6/3. Writing & following algorithms.md",
-    "Computer Science/SLR 6/2. Development methodologies part 2.md",
-    "Computer Science/SLR 6/1. Development methodologies part 1.md",
     "Physics/Mechanics",
     "Physics/Class Notes/2023/12",
     "Computer Science/SLR 6",
     "Physics/Class Notes/2023/11/Untitled",
     "Physics/Waves",
-    "Computer Science/SLR 5",
-    "Physics/Class Notes/2023/11",
     "Untitled.canvas"
   ]
 }
