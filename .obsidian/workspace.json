@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/2/20.md",
+                "file": "Physics/Class Notes/2024/2/26.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2024/2/20.md",
+                "file": "Physics/Class Notes/2024/2/26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2024/2/20.md",
+                "file": "Physics/Class Notes/2024/2/26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2024/2/20.md"
+                "file": "Physics/Class Notes/2024/2/26.md"
               }
             }
           },
@@ -198,11 +198,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54815f337ff644b8",
+  "active": "093f0e1a52336334",
   "lastOpenFiles": [
+    "Physics/Class Notes/2024/2/20.md",
+    "Physics/Class Notes/2024/2/26.md",
     "Physics/Class Notes/2024/1/8.md",
     "Physics/Class Notes/2024/1/29.md",
-    "Physics/Class Notes/2024/2/20.md",
     "Physics/Class Notes/2024/1/25.md",
     "Physics/Class Notes/2024/2",
     "Physics/Class Notes/2024/Untitled 1.md",
@@ -231,7 +232,6 @@
     "Computer Science/Independent Project",
     "Computer Science/Untitled.md",
     "Physics/Class Notes/2023/12/13.md",
-    "Physics/Class Notes/2023/12/11 Particles.md",
     "Physics/Mechanics",
     "Physics/Class Notes/2023/12",
     "Computer Science/SLR 6",
