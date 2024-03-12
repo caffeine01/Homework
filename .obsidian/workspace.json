@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/3/5.md",
+                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Class Notes/2024/3/5.md",
+                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Class Notes/2024/3/5.md",
+                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Class Notes/2024/3/5.md"
+                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md"
               }
             }
           },
@@ -213,18 +213,24 @@
   },
   "active": "aaeb70e554861a9d",
   "lastOpenFiles": [
-    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
-    "Physics/Class Notes/Forces and Motion GCSE content.md",
+    "Physics/Class Notes/2024/2/26.md",
+    "Computer Science/SLR 9/Lossy vs Lossless compression.md",
+    "Computer Science/SLR 9",
+    "Physics/Class Notes/2024/3/11.md",
+    "Physics/Class Notes/2024/3/11.2.md",
+    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
+    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
+    "Physics/Condensed/Particles and Radiation.md",
+    "Physics/Class Notes/2024/3/5.md",
+    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
+    "Physics/Class Notes/Forces and Motion GCSE content.md",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
-    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
     "Physics/Class Notes/Pair Production.md",
-    "Physics/Class Notes/2024/3/5.md",
     "Physics/Class Notes/2024/2/29. Stress and Strain.md",
     "Physics/Class Notes/2024/3",
-    "Physics/Class Notes/2024/2/26.md",
     "Computer Science/SLR 7/4. Addressing memory.md",
     "Physics/Class Notes/2024/2/20.md",
     "Physics/Class Notes/2024/1/8.md",
@@ -237,11 +243,6 @@
     "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
     "Computer Science/SLR 2/1. CISC vs RISC.md",
     "Computer Science/SLR 2/2. GPUs and their uses.md",
-    "Computer Science/SLR 7/1. Programming Paradigms.md",
-    "Computer Science/SLR 7/2. Procedural languages.md",
-    "Computer Science/SLR 7/3. Assembly language and LMC language.md",
-    "Physics/Waves/Two Source Interference.md",
-    "Physics/Class Notes/2023/12/6.md",
     "Computer Science/SLR 7",
     "Physics/Class Notes/2024",
     "Physics/Class Notes/2023/Pasted image 20231214142940.png",
@@ -249,7 +250,6 @@
     "Physics/Mechanics",
     "Physics/Class Notes/2023/12",
     "Computer Science/SLR 6",
-    "Physics/Class Notes/2023/11/Untitled",
     "Untitled.canvas"
   ]
 }
