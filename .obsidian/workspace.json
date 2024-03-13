@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71543111bff55b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Condensed/Particles and Radiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md",
+                "file": "Physics/Condensed/Particles and Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md",
+                "file": "Physics/Condensed/Particles and Radiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 9/Lossy vs Lossless compression.md"
+                "file": "Physics/Condensed/Particles and Radiation.md"
               }
             }
           },
@@ -211,23 +223,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaeb70e554861a9d",
+  "active": "71543111bff55b1d",
   "lastOpenFiles": [
-    "Physics/Class Notes/2024/2/26.md",
-    "Computer Science/SLR 9/Lossy vs Lossless compression.md",
-    "Computer Science/SLR 9",
-    "Physics/Class Notes/2024/3/11.md",
-    "Physics/Class Notes/2024/3/11.2.md",
+    "a.md",
+    "Physics/Condensed/Particles and Radiation.md",
+    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
+    "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
     "Physics/Particles and Radiation/Quarks and Antiquarks.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
-    "Physics/Condensed/Particles and Radiation.md",
-    "Physics/Class Notes/2024/3/5.md",
-    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
-    "Physics/Class Notes/Forces and Motion GCSE content.md",
     "Physics/Particles and Radiation/Antiparticles and Photons.md",
     "Physics/Particles and Radiation/Hadrons and Leptons.md",
+    "Physics/Class Notes/2024/3/13 Mechanics Revision.md",
+    "TODO.md",
+    "Physics/Class Notes/2024/3/11.2.md",
+    "Computer Science/SLR 9/Lossy vs Lossless compression.md",
+    "Physics/Class Notes/2024/2/26.md",
+    "Computer Science/SLR 9",
+    "Physics/Class Notes/2024/3/11.md",
+    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
+    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
+    "Physics/Class Notes/2024/3/5.md",
+    "Physics/Class Notes/Forces and Motion GCSE content.md",
     "Physics/Class Notes/Pair Production.md",
     "Physics/Class Notes/2024/2/29. Stress and Strain.md",
     "Physics/Class Notes/2024/3",
@@ -238,11 +254,7 @@
     "Physics/Class Notes/2024/1/25.md",
     "Physics/Class Notes/2024/2",
     "Physics/Class Notes/2024/Untitled 1.md",
-    "Physics/Class Notes/2024/Untitled.md",
     "Physics/Class Notes/2024/1",
-    "Computer Science/SLR 2/3. Multi core and Parallel systems.md",
-    "Computer Science/SLR 2/1. CISC vs RISC.md",
-    "Computer Science/SLR 2/2. GPUs and their uses.md",
     "Computer Science/SLR 7",
     "Physics/Class Notes/2024",
     "Physics/Class Notes/2023/Pasted image 20231214142940.png",
