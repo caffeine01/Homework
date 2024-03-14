@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Condensed/Particles and Radiation.md",
+                "file": "Computer Science/SLR 9/4. Hashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Condensed/Particles and Radiation.md",
+                "file": "Computer Science/SLR 9/4. Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Condensed/Particles and Radiation.md",
+                "file": "Computer Science/SLR 9/4. Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Condensed/Particles and Radiation.md"
+                "file": "Computer Science/SLR 9/4. Hashing.md"
               }
             }
           },
@@ -225,8 +225,16 @@
   },
   "active": "71543111bff55b1d",
   "lastOpenFiles": [
-    "a.md",
+    "Computer Science/SLR 9/3. Symmetric and asymmetric encryption.md",
+    "Computer Science/SLR 9/4. Hashing.md",
+    "Computer Science/SLR 9/2. Run Length and Dictionary Coding.md",
+    "Computer Science/SLR 9/1. Lossy vs Lossless compression.md",
+    "Computer Science/SLR 3/4. Virtual Storage.md",
+    "Computer Science/SLR 3/3. RAM 'n' ROM.md",
+    "Computer Science/SLR 3/2. Magnetic, flash and optical storage.md",
+    "Computer Science/SLR 3/1. Input, output and storage devices.md",
     "Physics/Condensed/Particles and Radiation.md",
+    "a.md",
     "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
     "Physics/Particles and Radiation/Atomic Structure.md",
     "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
@@ -236,7 +244,6 @@
     "Physics/Class Notes/2024/3/13 Mechanics Revision.md",
     "TODO.md",
     "Physics/Class Notes/2024/3/11.2.md",
-    "Computer Science/SLR 9/Lossy vs Lossless compression.md",
     "Physics/Class Notes/2024/2/26.md",
     "Computer Science/SLR 9",
     "Physics/Class Notes/2024/3/11.md",
@@ -245,15 +252,8 @@
     "Physics/Class Notes/2024/3/5.md",
     "Physics/Class Notes/Forces and Motion GCSE content.md",
     "Physics/Class Notes/Pair Production.md",
-    "Physics/Class Notes/2024/2/29. Stress and Strain.md",
     "Physics/Class Notes/2024/3",
-    "Computer Science/SLR 7/4. Addressing memory.md",
-    "Physics/Class Notes/2024/2/20.md",
-    "Physics/Class Notes/2024/1/8.md",
-    "Physics/Class Notes/2024/1/29.md",
-    "Physics/Class Notes/2024/1/25.md",
     "Physics/Class Notes/2024/2",
-    "Physics/Class Notes/2024/Untitled 1.md",
     "Physics/Class Notes/2024/1",
     "Computer Science/SLR 7",
     "Physics/Class Notes/2024",
