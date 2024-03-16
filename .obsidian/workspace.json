@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 9/4. Hashing.md",
+                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 9/4. Hashing.md",
+                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 9/4. Hashing.md",
+                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 9/4. Hashing.md"
+                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md"
               }
             }
           },
@@ -225,8 +225,10 @@
   },
   "active": "71543111bff55b1d",
   "lastOpenFiles": [
-    "Computer Science/SLR 9/3. Symmetric and asymmetric encryption.md",
     "Computer Science/SLR 9/4. Hashing.md",
+    "Computer Science/SLR 10/1. Introduction to database concepts.md",
+    "Computer Science/SLR 10",
+    "Computer Science/SLR 9/3. Symmetric and asymmetric encryption.md",
     "Computer Science/SLR 9/2. Run Length and Dictionary Coding.md",
     "Computer Science/SLR 9/1. Lossy vs Lossless compression.md",
     "Computer Science/SLR 3/4. Virtual Storage.md",
@@ -251,7 +253,6 @@
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Physics/Class Notes/2024/3/5.md",
     "Physics/Class Notes/Forces and Motion GCSE content.md",
-    "Physics/Class Notes/Pair Production.md",
     "Physics/Class Notes/2024/3",
     "Physics/Class Notes/2024/2",
     "Physics/Class Notes/2024/1",
@@ -261,7 +262,6 @@
     "Computer Science/Independent Project",
     "Physics/Mechanics",
     "Physics/Class Notes/2023/12",
-    "Computer Science/SLR 6",
     "Untitled.canvas"
   ]
 }
