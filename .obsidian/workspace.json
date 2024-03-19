@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md",
+                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md",
+                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md",
+                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 10/1. Introduction to database concepts.md"
+                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md"
               }
             }
           },
@@ -225,8 +225,10 @@
   },
   "active": "71543111bff55b1d",
   "lastOpenFiles": [
-    "Computer Science/SLR 9/4. Hashing.md",
     "Computer Science/SLR 10/1. Introduction to database concepts.md",
+    "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
+    "Physics/Condensed/Particles and Radiation.md",
+    "Computer Science/SLR 9/4. Hashing.md",
     "Computer Science/SLR 10",
     "Computer Science/SLR 9/3. Symmetric and asymmetric encryption.md",
     "Computer Science/SLR 9/2. Run Length and Dictionary Coding.md",
@@ -235,7 +237,6 @@
     "Computer Science/SLR 3/3. RAM 'n' ROM.md",
     "Computer Science/SLR 3/2. Magnetic, flash and optical storage.md",
     "Computer Science/SLR 3/1. Input, output and storage devices.md",
-    "Physics/Condensed/Particles and Radiation.md",
     "a.md",
     "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
     "Physics/Particles and Radiation/Atomic Structure.md",
@@ -252,7 +253,6 @@
     "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
     "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
     "Physics/Class Notes/2024/3/5.md",
-    "Physics/Class Notes/Forces and Motion GCSE content.md",
     "Physics/Class Notes/2024/3",
     "Physics/Class Notes/2024/2",
     "Physics/Class Notes/2024/1",
