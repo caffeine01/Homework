@@ -13,69 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/2/26.md",
+                "file": "Computer Science/SLR 2/2. GPUs and their uses.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aaeb70e554861a9d",
+            "id": "87b28501aef7ae5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Computer Science/SLR 7/1. Programming Paradigms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71543111bff55b1d",
+            "id": "2ceb7491e8600719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
+                "file": "Physics/Condensed/Particles and Radiation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b9124857b9861c6",
+            "id": "f6650a0ac1d058df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Class Notes/2024/1/8.md",
+                "file": "Physics/Particles and Radiation/Quarks and Antiquarks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5a427ca5092969ac",
+            "id": "5c1cc27c0da15e92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Class Notes/2024/1/29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e3a1a1150d6d764",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Computer Science/SLR 7/4. Addressing memory.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -145,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
+                "file": "Physics/Condensed/Particles and Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
+                "file": "Physics/Condensed/Particles and Radiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md"
+                "file": "Physics/Condensed/Particles and Radiation.md"
               }
             }
           },
@@ -196,72 +181,63 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "0f23d7b1616b7aa1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71543111bff55b1d",
+  "active": "2ceb7491e8600719",
   "lastOpenFiles": [
-    "Computer Science/SLR 10/1. Introduction to database concepts.md",
+    "Physics/Class Notes/2023/Pasted image 20240324172814.png",
+    "Physics/Class Notes/Pair Production.md",
+    "Physics/Class Notes/2023/10/30.md",
+    "Physics/Class Notes/2023/11/6.md",
+    "Physics/Class Notes/2023/11/7.md",
+    "Physics/Class Notes/2023/11/9.md",
+    "Physics/Class Notes/2023/11/16.md",
+    "Physics/Class Notes/2023/11/21.md",
+    "Physics/Class Notes/2023/11/22.md",
+    "Physics/Class Notes/2023/11/29.md",
+    "Physics/Class Notes/2023/11/30.md",
     "Computer Science/SLR 10/2. Methods of capturing, selecting, managing and exchanging data.md",
+    "Computer Science/SLR 10/1. Introduction to database concepts.md",
     "Physics/Condensed/Particles and Radiation.md",
-    "Computer Science/SLR 9/4. Hashing.md",
     "Computer Science/SLR 10",
-    "Computer Science/SLR 9/3. Symmetric and asymmetric encryption.md",
-    "Computer Science/SLR 9/2. Run Length and Dictionary Coding.md",
-    "Computer Science/SLR 9/1. Lossy vs Lossless compression.md",
-    "Computer Science/SLR 3/4. Virtual Storage.md",
-    "Computer Science/SLR 3/3. RAM 'n' ROM.md",
-    "Computer Science/SLR 3/2. Magnetic, flash and optical storage.md",
-    "Computer Science/SLR 3/1. Input, output and storage devices.md",
-    "a.md",
-    "Physics/Electromagnetic Radiation and Quantum Phenomena/The Photoelectric Effect.md",
-    "Physics/Particles and Radiation/Atomic Structure.md",
-    "Physics/Particles and Radiation/Stable and Unstable nuclei.md",
-    "Physics/Particles and Radiation/Quarks and Antiquarks.md",
-    "Physics/Particles and Radiation/Antiparticles and Photons.md",
-    "Physics/Particles and Radiation/Hadrons and Leptons.md",
-    "Physics/Class Notes/2024/3/13 Mechanics Revision.md",
-    "TODO.md",
-    "Physics/Class Notes/2024/3/11.2.md",
-    "Physics/Class Notes/2024/2/26.md",
+    "Physics/Waves/Progressive Waves.md",
+    "Physics/Waves/Two Source Interference.md",
+    "Computer Science/SLR 9/Lossy vs Lossless compression.md",
     "Computer Science/SLR 9",
-    "Physics/Class Notes/2024/3/11.md",
-    "Physics/Measurements and their Errors/Uses of SI Units and their prefixes.md",
-    "Physics/Measurements and their Errors/Limitations of Physical Measurements.md",
-    "Physics/Class Notes/2024/3/5.md",
-    "Physics/Class Notes/2024/3",
-    "Physics/Class Notes/2024/2",
-    "Physics/Class Notes/2024/1",
+    "Computer Science/SLR 7/4. Addressing memory.md",
+    "Computer Science/SLR 7/3. Assembly language and LMC language.md",
+    "Computer Science/SLR 7/2. Procedural languages.md",
+    "Computer Science/SLR 7/1. Programming Paradigms.md",
+    "Physics/Class Notes/2024/29.md",
+    "Physics/Class Notes/2024/25.md",
+    "Physics/Class Notes/2024/24.md",
+    "Computer Science/SLR 6/5. Test data & user feedback.md",
     "Computer Science/SLR 7",
-    "Physics/Class Notes/2024",
-    "Physics/Class Notes/2023/Pasted image 20231214142940.png",
-    "Computer Science/Independent Project",
+    "Computer Science/SLR 6/4. Test strategies.md",
     "Physics/Mechanics",
+    "Physics/Class Notes/2024",
     "Physics/Class Notes/2023/12",
+    "Computer Science/SLR 6",
+    "Physics/Waves",
+    "Physics/Electromagnetic Radiation and Quantum Phenomena",
+    "Physics/Class Notes/2023/11",
     "Untitled.canvas"
   ]
 }
